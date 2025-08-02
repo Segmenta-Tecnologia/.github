@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://segmenta.com.br/wp-content/uploads/2023/12/Segmenta-website.png" alt="Segmenta Tecnologia" width="200"/>
+</p>
+
 # Segmenta Tecnologia
 
 🚀 Bem-vindo à organização oficial da **Segmenta Tecnologia** no GitHub!
