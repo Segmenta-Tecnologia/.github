@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://segmenta.com.br/wp-content/uploads/2023/12/Segmenta-website.png" alt="Segmenta Tecnologia" width="200"/>
+<p align="left">
+  <img src="https://segmenta.com.br/wp-content/uploads/2023/12/Segmenta-website.png" alt="Segmenta Tecnologia" width="300"/>
 </p>
 
 # Segmenta Tecnologia
