@@ -29,7 +29,7 @@ Somos especialistas em desenvolver soluções digitais inteligentes para moderni
 ## 🤝 Fale conosco
 
 📧 tecnologia@segmenta.com.br  
-🌐 [https://segmenta.tec.br](https://segmenta.tec.br)
+🌐 [https://segmenta.com.br](https://segmenta.com.br)
 
 ---
 
